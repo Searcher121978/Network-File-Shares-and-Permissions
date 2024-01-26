@@ -41,7 +41,3 @@ Create an “ACCOUNTANTS” Security Group, assign permissions, an test access
 
 17. Sign back into Client-1 as <someuser> and try to access the “accounting” share in \\DC-1\ - Does it work now?
 
-
-   
-
-https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group/assets/124515149/3392107f-8673-4c2c-8043-95b1178a6d6b
