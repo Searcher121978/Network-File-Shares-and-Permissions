@@ -1,5 +1,5 @@
-#  Microsoft-Azure-Network File Shares and Permissions(Video below)
- Microsoft-Azure-ONetwork File Shares and Permissions (Video below)
+#  Microsoft-Azure-Network File Shares and Permissions instructions
+ Microsoft-Azure-ONetwork File Shares and Permissions instructions
 
 Create some sample file shares with various permissions
 
